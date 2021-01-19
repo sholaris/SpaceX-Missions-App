@@ -6,7 +6,7 @@
 
 This application is using concurrently to start client and server in parallel
 
-```
+```bash
 # Install required dependencies
 npm install 
 cd client && npm install
