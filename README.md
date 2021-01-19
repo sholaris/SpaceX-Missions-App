@@ -8,7 +8,8 @@ This application is using concurrently to start client and server in parallel
 
 ```
 # Install required dependencies
-npm install && npm install --prefix client
+npm install 
+<span style="color: red">cd</span> client && npm install
 
 # Starting server
 npm run server
